@@ -1,0 +1,9 @@
+Building Ricecoin
+
+See doc/readme-qt.rst for instructions on building Ricecoin QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Ricecoin.
+
+See doc/build-*.txt for instructions on building Eu5iad,
+the intended-for-services, no-graphical-interface, reference
+implementation of Ricecoin.
